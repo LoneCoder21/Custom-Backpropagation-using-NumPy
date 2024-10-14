@@ -21,7 +21,7 @@ In order to implement backprop correctly, many techniques from [Stanford's Lectu
 -   \[256, 128, 10\] neurons for MNIST classification.
 -   ReLU activation for hidden layers, softmax output layer for final predictions.
 
-![Feedforward Architecture](feedforward_network\images\feedforward_net.png)
+![Feedforward Architecture](feedforward_network/images/feedforward_net.png)
 
 ### Results
 
